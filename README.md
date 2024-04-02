@@ -5,4 +5,4 @@ Analysis code for the publication "Understanding Defects in Amorphous Silicon wi
 
 1. Download the research data by running: `bash download_data.sh`
 
-2. Install dependencies (pip install coming soon)
+2. Install dependencies (pip install coming soon): `pip install -r requirements.txt`
